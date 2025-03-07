@@ -184,4 +184,5 @@ def create_wiki(word):
 
 bot.infinity_polling()
 print("Lesson_2")
+print("HEllO")
 #нопомнить что такое вот эти вот приколы: __def(or smt difer)__
