@@ -183,5 +183,5 @@ def create_wiki(word):
         return "has not found wikipedia"
 
 bot.infinity_polling()
-
+print("Lesson_2")
 #нопомнить что такое вот эти вот приколы: __def(or smt difer)__
